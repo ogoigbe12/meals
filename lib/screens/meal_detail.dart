@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:meals/main.dart';
+// import 'package:meals/main.dart';
 import 'package:meals/models/meal.dart';
 
 class MealDetailsScreen extends StatelessWidget {
@@ -72,6 +72,6 @@ class MealDetailsScreen extends StatelessWidget {
                 ),
             ],
           ),
-        ));
+        ),);
   }
 }
